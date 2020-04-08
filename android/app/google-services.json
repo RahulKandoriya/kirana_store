@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "173780462640",
+    "firebase_url": "https://kirana-store-d0ac2.firebaseio.com",
+    "project_id": "kirana-store-d0ac2",
+    "storage_bucket": "kirana-store-d0ac2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173780462640:android:bc800c7c89761b10c711f5",
+        "android_client_info": {
+          "package_name": "com.abotstudio.apps.kirana_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173780462640-k0sdtij9kmoq0m7j9rsithjjnnfhejo4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJwldctIeeBS3JX7bC0KB_WdVZn7dMaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173780462640-k0sdtij9kmoq0m7j9rsithjjnnfhejo4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
